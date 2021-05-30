@@ -26,3 +26,10 @@ The datasets used for our proposed methods are:-
 
 ## Usage
 Run the notebooks (here we assume Google Colab). 
+1. Run all the cells
+2. replace the id with the id of the dataset to be used from the list in the comments
+3. verify the email id.
+Parameter : 
+1. change the value of P to select the no of top genes 
+2. In the begining of each part loocv,10 fold and 5 fold . There are two parameters for changing the no of bootstrap versions to create in each iteration and sample no to use.
+3. At the end of each part , the corresponding run results , accuracy and various plots will be printed.
