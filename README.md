@@ -27,7 +27,7 @@ The datasets used for our proposed methods are:-
 ## Usage
 Run the notebooks (here we assume Google Colab). 
 1. Run all the cells
-2. verify the email id. in the first block of Loading the Dataset outupt section.
+2. verify the google email ID . in the first block of Loading the Dataset outupt section.
 Parameter : 
-1. change the value of P_VALUE BOOT_VALUE SAMPLE_VALUE as required and replace the dataset IDs. In the first block of Load the Dataset section
+1. change the value of P_VALUE , BOOT_VALUE , SAMPLE_VALUE as required and replace the dataset IDs. In the first block of Load the Dataset section
 3. At the end of each part , the corresponding run results , accuracy and various plots will be printed.
