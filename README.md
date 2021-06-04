@@ -31,6 +31,8 @@ The datasets used for our proposed methods are:-
 
 The dasets are provided in the CANCER GENE EXPRESSION DATASETS directory under this repository .
 
+https://github.com/NSECResearchCD-SLB/PEERJ_MFSAC_EC/tree/main/CANCER%20GENE%20EXPRESSION%20DATASETS
+
 Each of the dataset has an .csv extention but are seperated by \t or TAB delimiter .
 The datasets are in form of TAB seperated matrices and can be imported in python by 
 ```python
